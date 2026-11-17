@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I’m Qiang Xiang (项强) 👋
 
-<!--
-**innerway-xq/innerway-xq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a master’s student in Computer Science at Fudan University, advised by Prof. Junping Zhang. My research interests include controllable image generation, image editing, visual representations, and multimodal generative models.
 
-Here are some ideas to get you started:
+### Selected Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[GlyphAnchor](https://github.com/FireRedTeam/GlyphAnchor)** · NeurIPS 2026 · First author  
+  Anchors glyph patches to target regions to improve text rendering in image generation and editing.
+- **[InstanceAssemble](https://github.com/FireRedTeam/InstanceAssemble)** · NeurIPS 2025 · First author  
+  Uses instance-level attention to control object placement and appearance in image generation.
+- **[FireRed-Image-Edit](https://github.com/FireRedTeam/FireRed-Image-Edit)** · Core contributor  
+  Contributed to data curation, model training, and reward design for visual text rendering.
+- **[LayerDiffuse-Flux](https://github.com/FireRedTeam/LayerDiffuse-Flux)**  
+  Adapted LayerDiffuse to FLUX by training a transparent VAE and a LoRA adapter.
